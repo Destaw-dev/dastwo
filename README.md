@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Destaw</h1>
+<h1 align="center">Hi  I'm Destaw</h1>
 <h3 align="center">Full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=destaw&label=Profile%20views&color=0e75b6&style=flat" alt="destaw" /> </p>
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/destaw melese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="destaw melese" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/destaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="destaw melese" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
